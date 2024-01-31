@@ -19,7 +19,7 @@
         "HEROKU_API_KEY": {
             "description": "Enter your heroku account api key",
             "required": true,
-            "value": "2cb5d915-6686-4f11-a91d-c9b127bf81d1"
+            "value": "37e54afb-57f6-4f4c-b4a3-c67c3ec3a766"
         },
         "HEROKU_APP_NAME": {
             "description": "Enter you pushed app Name",
